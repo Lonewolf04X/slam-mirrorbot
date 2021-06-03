@@ -26,10 +26,9 @@
 - Check Heroku dynos stats
 - Custom image support
 - Counting file/folder
-- Racaty.net support
 - Shell and Executor
 - Stickers module
-- Direct supported for:
+- Direct link supported for:
 ```
 Racaty, Letsupload, Hxfile, Anonfiles, Fembed
 ```
