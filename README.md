@@ -29,7 +29,7 @@
 - Racaty.net support
 - Shell and Executor
 - Stickers module
-- Direct link added:
+- Direct supported for:
 ```
 Racaty, Letsupload, Hxfile
 Anonfiles, Fembed
