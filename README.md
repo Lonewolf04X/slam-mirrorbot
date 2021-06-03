@@ -29,7 +29,11 @@
 - Racaty.net support
 - Shell and Executor
 - Stickers module
-
+- Direct link added:
+```
+Racaty, Letsupload, Hxfile
+Anonfiles, Fembed
+```
 ## From Original Repos
 - Mirroring direct download links, Torrent, and Telegram files to Google Drive
 - Mirroring Mega.nz links to Google Drive (If your Mega account not premium, it will limit 4-5gb/day)
