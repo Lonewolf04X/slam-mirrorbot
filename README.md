@@ -31,8 +31,7 @@
 - Stickers module
 - Direct supported for:
 ```
-Racaty, Letsupload, Hxfile
-Anonfiles, Fembed
+Racaty, Letsupload, Hxfile, Anonfiles, Fembed
 ```
 ## From Original Repos
 - Mirroring direct download links, Torrent, and Telegram files to Google Drive
