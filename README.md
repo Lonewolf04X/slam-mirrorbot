@@ -28,7 +28,7 @@
 - Counting file/folder
 - Shell and Executor
 - Stickers module
-- Direct link supported for:
+- Direct link supported:
 ```
 Racaty, Letsupload, Hxfile, Anonfiles, Fembed (layarkacaxxi & femax20)
 ```
