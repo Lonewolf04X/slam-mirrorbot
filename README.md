@@ -30,7 +30,7 @@
 - Stickers module
 - Direct link supported:
 ```
-Racaty, Hxfile, Anonfiles, Fembed (layarkacaxxi & femax20)
+Racaty, Hxfile, Anonfiles, Fembed (femax20 & layarkacaxxi)
 ```
 ## From Original Repos
 - Mirroring direct download links, Torrent, and Telegram files to Google Drive
